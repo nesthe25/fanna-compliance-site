@@ -1,0 +1,9 @@
+{
+  "name": "fanna-space-compliance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Meta compliance website for FANNA.",
+  "scripts": {
+    "build": "node scripts/build-check.mjs"
+  }
+}
